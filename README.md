@@ -1,7 +1,7 @@
 # 👋 Hello, I'm David Adakole James
 
 ### 🌟 Passionate Systems Programmer & Solana Smart Contract Developer  
-`I learn anything that is beneficial for my growth Mentally, Psychologically, Spiritually and Emotionally`
+`I learn anything and everything that is beneficial for my growth Mentally, Psychologically, Spiritually and Emotionally`
 
 I thrive in crafting robust, high-performance systems and blockchain applications. With expertise in systems programming and decentralized technologies, I aim to deliver efficient, scalable, and secure solutions.
 
