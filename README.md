@@ -37,9 +37,8 @@ I thrive in crafting robust, high-performance systems and blockchain application
 ---
 
 ### 🔗 Let's Connect:
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Twitter](https://twitter.com/your-profile)  
-- [Personal Website](https://yourwebsite.com)  
+- [X](https://x.com/CCrown_Orig)  
+- [Personal Website](https://adakole.dev)  
 
 ---
 
